@@ -14,11 +14,6 @@ export const templates = [
     value: "yingside/vite-template",
     desc: "基于vite的vue3 + 前端工具链项目模板",
   },
-  {
-    name: "vue-admin-box",
-    value: "cmdparkour/vue-admin-box",
-    description: "cmdparkour 基于vue3 + vite中后台项目模板",
-  },
 ];
 
 export const messages = [
