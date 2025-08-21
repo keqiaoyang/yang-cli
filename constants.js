@@ -1,18 +1,18 @@
 export const templates = [
   {
-    name: "webpack-template",
-    value: "yingside/webpack-template",
-    description: "基于webpack5自定义初始化vue3项目模板",
+    name: "vue-admin-better",
+    value: "zxwk1998/vue-admin-better",
+    description: "基于vue2 + element-ui中后台前端框架",
   },
   {
-    name: "vue-cli-template",
-    value: "yingside/vue-cli-template",
-    description: "基于vue-cli自定义vue3项目模板",
+    name: "vue-admin-box",
+    value: "cmdparkour/vue-admin-box",
+    description: "cmdparkour vue3 + vite中后台项目模板",
   },
   {
-    name: "vite-template",
-    value: "yingside/vite-template",
-    description: "基于vite的vue3 + 前端工具链项目模板",
+    name: "vue3-admin-better",
+    value: "zxwk1998/vue3-admin-better",
+    description: "基于vue3 + element-plus中后台前端框架",
   },
 ];
 
