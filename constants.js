@@ -12,7 +12,7 @@ export const templates = [
   {
     name: "vite-template",
     value: "yingside/vite-template",
-    desc: "基于vite的vue3 + 前端工具链项目模板",
+    desc: "基于vite的vue3前端工具链项目模板",
   },
 ];
 
