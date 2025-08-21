@@ -2,7 +2,7 @@
   "bin": {
     "yang-cli": "./index.js"
   },
-  "name": "yang-cli",
+  "name": "yang-general-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
