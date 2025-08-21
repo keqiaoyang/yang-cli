@@ -2,17 +2,17 @@ export const templates = [
   {
     name: "vue-admin-better",
     value: "zxwk1998/vue-admin-better",
-    description: "基于vue2 + element-ui中后台前端框架",
+    description: "基于vue2 + element-ui 中后台前端框架",
+  },
+  {
+    name: "vue3-admin-better",
+    value: "zxwk1998/vue3-admin-better",
+    description: "基于vue3 + element-plus 中后台前端框架",
   },
   {
     name: "vue-admin-box",
     value: "cmdparkour/vue-admin-box",
     description: "cmdparkour vue3 + vite中后台项目模板",
-  },
-  {
-    name: "vue3-admin-better",
-    value: "zxwk1998/vue3-admin-better",
-    description: "基于vue3 + element-plus中后台前端框架",
   },
 ];
 
