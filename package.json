@@ -3,7 +3,7 @@
     "yang-cli": "./index.js"
   },
   "name": "yang-general-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
