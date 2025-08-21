@@ -10,6 +10,4 @@ npm i yang-cli -g
 
 ## 2. 使用
 
-```js
-yang - cli;
-```
+yang-cli
